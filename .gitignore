@@ -1,0 +1,35 @@
+# Maven target directory
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+logs/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build files
+dependency-reduced-pom.xml
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Environment files
+.env
